@@ -1,5 +1,5 @@
-const greeting = (nome: string) => {
-    console.log(`Hello World, ${nome}`);
+const greeting = (nome: string): string => {
+    return `Hello World, ${nome}`;
 }
 
-greeting('Leo');
+console.log(greeting('Leo'));
