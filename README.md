@@ -1,3 +1,3 @@
 Olá Mundo! rs
 
-Primeira atividade do curso de Desenvolvimento de Software com Foco em Backend - iFood e Cubos Academy
+Esse repositório marca o primeiro commit com uma nova linguagem que estou estudando, a primeira foi o Javascrit, a segunda Typescript.
