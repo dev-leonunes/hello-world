@@ -1,6 +1,11 @@
 # Olá Mundo!
 
-Esse repositório marca o primeiro commit com uma nova linguagem que estou estudando.
+Este repositório registra meu primeiro commit ao explorar uma nova linguagem de programação, seguindo o ritual tradicional da área: imprimir "Hello, World!" no console ou na tela.
 
-- A primeira foi o Javascrit.
-- A segunda Typescript.
+## Linguagens Estudadas
+
+- <img width=25 src="https://skillicons.dev/icons?i=js" alt="logos do javascript"/> **JavaScript:**
+  - Meu primeiro passo na jornada de programação.
+
+- <img width=25 src="https://skillicons.dev/icons?i=ts" alt="logos do typescript"/> **TypeScript:**
+  - A segunda linguagem que estou explorando para fortalecer meus conhecimentos.
