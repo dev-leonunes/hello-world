@@ -14,4 +14,7 @@ Este repositório registra meu primeiro commit ao explorar uma nova linguagem de
   - A terceira linguagem que tive contato em estudos autônomos e na Faculdade de ADS.
 
 - <img width=28 src="https://skillicons.dev/icons?i=java" alt="logo do python"/> **Java:**
-  - A quarta linguagem que tive contato recentemente, no curso da Alura/Oracle e na Faculdade de ADS.
+  - A quarta linguagem que tive contato, no curso da Alura/Oracle e na Faculdade de ADS.
+
+- <img width=28 src="https://skillicons.dev/icons?i=c" alt="logo do C"/> **C:**
+  - A primeira e também a quinta liguagem que tive contato. A primeira no componente de algoritmos da faculdade Ciência e Tecnologia a alguns anos, mas voltei a ter contato agora no curso de Sistemas Embarcados da EmbarcaTech/CEPEDI.
